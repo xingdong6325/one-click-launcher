@@ -1,0 +1,20 @@
+[
+  {
+    "id": "example-1",
+    "name": "示例：模拟器（排最前）",
+    "path": "C:/Users/你的用户名/Desktop/你的模拟器.lnk",
+    "workdir": "",
+    "args": "",
+    "delay": 40,
+    "enabled": true
+  },
+  {
+    "id": "example-2",
+    "name": "示例：自动化脚本（排在模拟器后面）",
+    "path": "D:/scripts/daily.py",
+    "workdir": "",
+    "args": "",
+    "delay": 0,
+    "enabled": true
+  }
+]
